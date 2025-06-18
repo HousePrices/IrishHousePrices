@@ -7,7 +7,7 @@ A simple, single-page web application to search for the sale prices of residenti
 
 This web app provides an easy-to-use interface for querying property sales data in Ireland. Users can enter a full or partial address to retrieve a list of historical sales for that location, including the date of sale and the final price.
 
-It uses a publicly available API to get the data. You can see how the results compares against [Irish House Prices at IrishHouses.ie](https://irishhouses.ie) or [the Property Price Register](https://www.propertypriceregister.ie/)
+It uses a publicly available API to get the data. You can see how the results compares against Irish [House Prices](https://irishhouses.ie) or [the Property Price Register](https://www.propertypriceregister.ie/)
 
 ---
 
